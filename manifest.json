@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "UIUC Course Explorer++",
+    "version": "0.1",
+     "browser_action": {
+     },
+    "content_scripts": [
+      {
+        "matches": [
+          "https://courses.illinois.edu/*"
+        ],
+        "js": ["content.js"]
+      }
+    ]
+  }
