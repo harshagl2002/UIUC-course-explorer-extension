@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/79414830/124119494-38525e00-da90-11eb-91e9-24fa9f127fdc.mov
+
 # UIUC-course-explorer-extension
 Chrome extension for courses.illinois.edu - the official course exploring website of the University of Illinois, Urbana-Champaign
 
